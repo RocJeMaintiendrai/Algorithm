@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm Repository
+Algorithm Practice Repository
